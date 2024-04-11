@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @strikegold2
+- 👋 Hi, I’m @strek5
 - 👀 I’m interested in EdN
 - 🌱 I’m currently learning Cloud
 - 💞️ I’m looking to collaborate on codes
